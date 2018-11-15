@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ConfirmDialog/Default.aspx) (VB: [Default.aspx](./VB/ConfirmDialog/Default.aspx))
+* [Default.aspx.cs](./CS/ConfirmDialog/Default.aspx.cs) (VB: [Default.aspx](./VB/ConfirmDialog/Default.aspx))
+* [Global.asax](./CS/ConfirmDialog/Global.asax) (VB: [Global.asax](./VB/ConfirmDialog/Global.asax))
+* [Global.asax.cs](./CS/ConfirmDialog/Global.asax.cs) (VB: [Global.asax](./VB/ConfirmDialog/Global.asax))
+<!-- default file list end -->
 # ASPxFileManager - How to show a confirmation dialog to overwrite an existing file
 
 
