@@ -28,7 +28,7 @@ Namespace ConfirmDialog
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected HiddenField As Global.DevExpress.Web.ASPxHiddenField.ASPxHiddenField
+        Protected HiddenField As Global.DevExpress.Web.ASPxHiddenField
 
         ''' <summary>
         ''' FileManager control.
@@ -37,6 +37,6 @@ Namespace ConfirmDialog
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected FileManager As Global.DevExpress.Web.ASPxFileManager.ASPxFileManager
+        Protected FileManager As Global.DevExpress.Web.ASPxFileManager
     End Class
 End Namespace

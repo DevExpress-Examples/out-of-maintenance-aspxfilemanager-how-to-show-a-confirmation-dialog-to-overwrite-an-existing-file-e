@@ -28,7 +28,7 @@ namespace ConfirmDialog {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxHiddenField.ASPxHiddenField HiddenField;
+        protected global::DevExpress.Web.ASPxHiddenField HiddenField;
         
         /// <summary>
         /// FileManager control.
@@ -37,6 +37,6 @@ namespace ConfirmDialog {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxFileManager.ASPxFileManager FileManager;
+        protected global::DevExpress.Web.ASPxFileManager FileManager;
     }
 }
