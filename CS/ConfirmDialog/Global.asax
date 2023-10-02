@@ -1,1 +1,0 @@
-<%@ Application Codebehind="Global.asax.cs" Inherits="ConfirmDialog.Global_asax" Language="C#" %>
